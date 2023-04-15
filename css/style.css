@@ -1,0 +1,19 @@
+.container-fluid .nav .nav-item a:hover{
+    background-color: gray;
+}
+
+.navbar-nav .nav-item a:hover{
+    text-decoration: underline;
+}
+
+.navbar .nav-item{
+    margin-right: 10px;
+}
+
+.cards .card:hover{
+    border-color:black;
+}
+
+.section-2 .container a:hover{
+    text-decoration: underline;
+}
